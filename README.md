@@ -1,4 +1,4 @@
-Levegőminőség és Egészségügyi Hatások Elemzése
+Levegőminőség és Egészségügyi Hatások
 
 A projekt egy Python alapú adatelemző és vizualizációs alkalmazás, amely városi levegőminőségi adatokat dolgoz fel a `pandas`, `numpy` és `matplotlib` könyvtárak segítségével. A projekt fő célja a legfontosabb légszennyező anyagok PM2.5, NO2, O3 eloszlásának, összefüggéseinek és szezonális ingadozásainak részletes vizsgálata.
 
@@ -63,7 +63,7 @@ pip install pandas numpy matplotlib
 
 Használat és futtatás
 
-1. Klónozd a tárolót vagy töltsd le a fájlokat:
+1. Töltsd le a fájlokat.
 2. Helyezd el az `Air_Quality_and_Health_Impacts.csv` fájlt és a `2pythonpluszfeladt.py` szkriptet ugyanabba a könyvtárba.
 3. Nyiss egy terminált a projekt mappájában.
 4. Futtasd a szkriptet: python 2pythonpluszfeladt.py
